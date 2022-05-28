@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590867373303",
+    "project_id": "socialtalk-bb508",
+    "storage_bucket": "socialtalk-bb508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590867373303:android:baaa66875be80cfcad07f2",
+        "android_client_info": {
+          "package_name": "com.javaistitute.mychatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590867373303-e9dqq7juud207m0pld98ijetjn3ck77t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUf9Om7PIod1HV4qtJQ9-MPv-0rnrPvf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590867373303-e9dqq7juud207m0pld98ijetjn3ck77t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

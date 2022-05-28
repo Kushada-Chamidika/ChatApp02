@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SocialTalk</string>
+    <string name="app_subtitle">Chat Application</string>
+    <string name="app_title">SocialTalk</string>
+    <string name="main_topic">SocialTalk ChatApp</string>
+    <string name="sub_topic">Online Chat Application</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t Have An Account? Sign Up Here</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_email_address_hint">Email Address</string>
+    <string name="login_login_password_hint">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username_hint">Username</string>
+    <string name="already_have_an_account_sign_in_here">Already Have An Account? Sign In Here</string>
+    <string name="message_hint">Enter message...</string>
+    <string name="todo">TODO</string>
+</resources>
